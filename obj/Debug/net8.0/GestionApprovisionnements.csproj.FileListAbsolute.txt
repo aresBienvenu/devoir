@@ -1,0 +1,8 @@
+/Users/macbook/Documents/L3 GLRS S/C#/GestionApprovisionnement/GestionApprovisionnements/obj/Debug/net8.0/GestionApprovisionnements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/L3 GLRS S/C#/GestionApprovisionnement/GestionApprovisionnements/obj/Debug/net8.0/GestionApprovisionnements.AssemblyInfoInputs.cache
+/Users/macbook/Documents/L3 GLRS S/C#/GestionApprovisionnement/GestionApprovisionnements/obj/Debug/net8.0/GestionApprovisionnements.AssemblyInfo.cs
+/Users/macbook/Documents/L3 GLRS S/C#/GestionApprovisionnement/GestionApprovisionnements/obj/Debug/net8.0/GestionApprovisionnements.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/L3 GLRS S/C#/GestionApprovisionnement/GestionApprovisionnements/obj/Debug/net8.0/GestionApprovisionnements.MvcApplicationPartsAssemblyInfo.cache
+/Users/macbook/Documents/L3 GLRS S/C#/GestionApprovisionnement/GestionApprovisionnements/obj/Debug/net8.0/GestionApprovisionnements.RazorAssemblyInfo.cache
+/Users/macbook/Documents/L3 GLRS S/C#/GestionApprovisionnement/GestionApprovisionnements/obj/Debug/net8.0/GestionApprovisionnements.RazorAssemblyInfo.cs
+/Users/macbook/Documents/L3 GLRS S/C#/GestionApprovisionnement/GestionApprovisionnements/obj/Debug/net8.0/GestionApprovisionnements.csproj.AssemblyReference.cache

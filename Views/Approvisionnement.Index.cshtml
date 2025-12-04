@@ -1,0 +1,25 @@
+@model IEnumerable<TonProjet.Models.Approvisionnement>
+
+<h1>Liste des approvisionnements</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Référence</th>
+            <th>Fournisseur</th>
+            <th>Date</th>
+            <th>Montant Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var a in Model)
+        {
+            <tr>
+                <td>@a.Reference</td>
+                <td>@a.Fournisseur?.Nom</td>
+                <td>@a.DateApprovisionnement.ToShortDateString()</td>
+                <td>@a.CalculerMontantTotal()</td>
+            </tr>
+        }
+    </tbody>
+</table>
